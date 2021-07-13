@@ -13,3 +13,9 @@ This will allow one to use passgen
 
 Example: passgen --length=25
 Output: passphrase with a length value of 25
+
+# Help
+
+Run: passgen -h 
+	or 
+Run: node index -h
