@@ -9,6 +9,7 @@ Run: node index
 # SymLink
 
 Run: npm link 
+
 This will allow one to use passgen
 
 Example: passgen --length=25
