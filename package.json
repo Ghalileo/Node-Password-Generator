@@ -1,0 +1,24 @@
+{
+  "name": "passgen",
+  "version": "1.0.0",
+  "description": "Simple node password Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghalileo/Node-Password-Generator.git"
+  },
+  "author": "Ose Okogbo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ghalileo/Node-Password-Generator/issues"
+  },
+  "homepage": "https://github.com/Ghalileo/Node-Password-Generator#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "clipboardy": "^2.3.0",
+    "commander": "^8.0.0"
+  }
+}
