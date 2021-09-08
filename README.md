@@ -1,22 +1,31 @@
-# Node-Command-Line-Password-Generator
 
-# Install
-Run: npm install
+ 
+  # Node-Password-Generator
+ 
+  [![Generic Badge](https://img.shields.io/badge/User-%20O%20s%20e%20-blueviolet.svg)](https://github.com/Ghalileo)
+  
+  # Description 
 
-# Usage 
-Run: node index
+  A Node application which allows the user to generate a random password based on letters, numbers and special characters
 
-# SymLink
+  Table of Contents |
+  ----------------- |
+  Installation |
+  Usage |
+  Contribution |
+  Licensing |
+  
 
-Run: npm link 
+  # Installation 
+  npm i
 
-This will allow one to use passgen
+  # Usage 
+  As a user living in the digital age, technology is evolving rapidly.  Security has become an issue of importance due to hackers.  I WANT to be able to create a complicated password in WHICH I am able to control.
 
-Example: passgen --length=25
-Output: passphrase with a length value of 25
+  # Contribution 
+  Oseghale, Ghalileo
 
-# Help
-
-Run: passgen -h 
-	or 
-Run: node index -h
+  # License 
+  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+ 
+  
