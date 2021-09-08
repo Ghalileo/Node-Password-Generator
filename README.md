@@ -19,7 +19,18 @@
   # Installation 
   npm i
 
-  # Usage 
+  #  Usage
+  Run: node index.js
+
+  # SymLink
+
+  Run: npm link
+
+  This will allow one to use passgen
+
+  Example: passgen --length=25 Output: passphrase with a length value of 25
+
+  # User Story 
   As a user living in the digital age, technology is evolving rapidly.  Security has become an issue of importance due to hackers.  I WANT to be able to create a complicated password in WHICH I am able to control.
 
   # Contribution 
