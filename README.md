@@ -6,7 +6,7 @@
   
   # Description 
 
-  A Node application which allows the user to generate a random password based on letters, numbers and special characters
+  A Node application which allows the user to generate a random password based on letters, numbers and special characters.
 
   Table of Contents |
   ----------------- |
